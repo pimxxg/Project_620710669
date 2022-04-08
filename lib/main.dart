@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_620710669/homepage/home.dart';
-import 'package:project_620710669/usa/home_usa.dart';
+import 'package:project_620710669/usa/homeUSA.dart';
 
 void main() {
   runApp(const MyApp());

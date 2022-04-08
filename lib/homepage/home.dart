@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_620710669/USA/home_usa.dart';
+import 'package:project_620710669/USA/homeUSA.dart';
 import 'package:project_620710669/china/homeChina.dart';
 import 'package:project_620710669/eu/homeEU.dart';
 import 'package:project_620710669/uk/homeUK.dart';
